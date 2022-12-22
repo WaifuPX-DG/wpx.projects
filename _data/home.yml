@@ -13,20 +13,20 @@ navbar_entries:
 
 
 project_entries:
-  - title: WaifuPX
+  - title: WAIFUPX
     url: app-waifupx
     desc: App for Android, with high-quality anime-style Wallpapers.
 
-  - title: UtopiaWalls+
+  - title: UTOPIAWALLS+
     url: overview-post
     desc: App for Android with Wallpapers of various styles, in a nice md3 interface.
 
-  - title: DGicons
+  - title: DGICONS
     url: overview-post
     desc: Dynamic icons that change color according to your wallpaper.
     highlight: BETA
 
-  - title: APK Editor Monet
+  - title: APK EDITOR MONET
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: Developers
