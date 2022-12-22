@@ -15,9 +15,9 @@ tags: [app, waifupx, wallpapers, waifu, anime]
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
-- [Features](#Features)
-- [The middle](#Screenshots)
-- [The end](#the-end)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Download](#the-end)
 
 
 
