@@ -61,7 +61,7 @@ Now a table:
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-## Images
+## Screenshots
 
 ![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
 
