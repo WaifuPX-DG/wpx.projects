@@ -51,16 +51,6 @@ console.log(ultimateTruth);
 
 And here is some `inline code`!
 
-## Tables
-
-Now a table:
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 ## Screenshots
 
 ![WaifuPX Home](https://raw.githubusercontent.com/WaifuPX-DG/wpx.projects/master/projects/waifupx/screenshots/waifupx_home.png)
