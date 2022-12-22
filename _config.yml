@@ -13,7 +13,7 @@ twitter:
     card: summary_large_image
 
 #theme: galahad # if you are using GitHub Pages, change it to remote_theme: galahad/wpxprojects
-remote_theme: galahad/wpxprojects
+remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
