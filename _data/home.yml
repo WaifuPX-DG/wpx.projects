@@ -20,11 +20,12 @@ project_entries:
   - title: DGicons
     url: overview-post
     desc: You can control visibility from _config.yml file
+    highlight: Icons
 
   - title: APK Editor Monet
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+    highlight: Developers
 
   - title: Project 5
     url: overview-post
