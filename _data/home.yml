@@ -1,11 +1,14 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
+  - title: Archive
     url: blog
 
-  - title: website
+  - title: Team
+    url: team
+
+  - title: Website
     url: https://www.abhinav.co
 
 project_entries:
@@ -55,14 +58,14 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
+  - title: Community
     url: https://www.abhinav.co
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/galahad_wpx
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/WaifuPX-DG
 
   - title: feed
     url: feed.xml
