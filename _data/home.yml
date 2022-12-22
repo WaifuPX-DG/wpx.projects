@@ -2,9 +2,6 @@ navbar_entries:
   - title: About
     url: about
 
-  - title: Archive
-    url: blog
-
   - title: Team
     url: team
 
@@ -54,7 +51,7 @@ old_project_entries:
 
 footer_entries:
   - title: Community
-    url: https://www.abhinav.co
+    url: https://t.me/WAIFUPX_group
 
   - title: twitter
     url: https://twitter.com/galahad_wpx
@@ -63,7 +60,10 @@ footer_entries:
     url: https://github.com/WaifuPX-DG
 
   - title: feed
-    url: feed.xml
+    url: feed.xm
+
+  - title: Archive
+    url: blog
 
 misc_entries:
   - title: this is an example vertical list
