@@ -9,11 +9,11 @@ permalink: /:slug
 favicon: "./logo.png" # relative path to site's favicon
 
 twitter:
-    username: abhinav # update or delete this
+    username: galahad_wpx # update or delete this
     card: summary_large_image
 
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: abhinavs/moonwalk
+#theme: galahad # if you are using GitHub Pages, change it to remote_theme: galahad/wpxprojects
+remote_theme: galahad/wpxprojects
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
