@@ -11,16 +11,16 @@ navbar_entries:
 project_entries:
   - title: WaifuPX
     url: app-waifupx
-    desc: This is an example project, configured in _data/home.yml
+    desc: App for Android, with high-quality anime-style Wallpapers.
 
   - title: UtopiaWalls+
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: App for Android with Wallpapers of various styles, in a nice md3 interface.
 
   - title: DGicons
     url: overview-post
-    desc: You can control visibility from _config.yml file
-    highlight: Icons
+    desc: Dynamic icons that change color according to your wallpaper.
+    highlight: BETA
 
   - title: APK Editor Monet
     url: overview-post
