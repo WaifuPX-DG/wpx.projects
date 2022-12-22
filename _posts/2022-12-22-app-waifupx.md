@@ -15,20 +15,11 @@ tags: [app, waifupx, wallpapers, waifu, anime]
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
 
-## Lists
+## Features
 
-Unordered:
-
-- Fusce non velit cursus ligula mattis convallis vel at metus[^2].
-- Sed pharetra tellus massa, non elementum eros vulputate non.
-- Suspendisse potenti.
-
-Ordered:
-
-1. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc.
-2. Sed massa quam, auctor in eros quis, porttitor tincidunt orci.
-3. Nulla convallis id sapien ornare viverra.
-4. Nam a est eget ligula pellentesque posuere.
+- Material Design 3.
+- Adfree.
+- Cloud based.
 
 ## Blockquote
 
