@@ -63,7 +63,7 @@ Now a table:
 
 ## Screenshots
 
-![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
+![WaifuPX Home](https://raw.githubusercontent.com/WaifuPX-DG/wpx.projects/master/projects/waifupx/screenshots/waifupx_home.png)
 
 This is an image[^4]
 
