@@ -8,36 +8,31 @@ navbar_entries:
   - title: Team
     url: team
 
-  - title: Website
-    url: https://www.abhinav.co
+  - title: Channel
+    url: https://t.me/waifupx_official
+
+  - title: Support WPX
+    url: https://ko-fi.com/wpxprojects
+
 
 project_entries:
   - title: WaifuPX
-    url: app-waifupx
+    url: app-waifup
     desc: App for Android, with high-quality anime-style Wallpapers.
 
   - title: UtopiaWalls+
-    url: overview-post
+    url: overview-pos
     desc: App for Android with Wallpapers of various styles, in a nice md3 interface.
 
   - title: DGicons
-    url: overview-post
+    url: overview-pos
     desc: Dynamic icons that change color according to your wallpaper.
     highlight: BETA
 
   - title: APK Editor Monet
-    url: overview-post
+    url: overview-pos
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: Developers
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
