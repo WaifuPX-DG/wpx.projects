@@ -9,19 +9,19 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
+  - title: WaifuPX
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
+  - title: UtopiaWalls+
     url: overview-post
     desc: Projects are shown in card layout
 
-  - title: Project 3
+  - title: DGicons
     url: overview-post
     desc: You can control visibility from _config.yml file
 
-  - title: Project 4
+  - title: APK Editor Monet
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
