@@ -18,16 +18,16 @@ project_entries:
     desc: App for Android, with high-quality anime-style Wallpapers.
 
   - title: UTOPIAWALLS+
-    url: overview-post
+    url: utopiawalls
     desc: App for Android with Wallpapers of various styles, in a nice md3 interface.
 
   - title: DGICONS
-    url: overview-post
+    url: dgicons
     desc: Dynamic icons that change color according to your wallpaper.
     highlight: BETA
 
   - title: APK EDITOR MONET
-    url: overview-post
+    url: apkeditor-monet
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: Developers
 
